@@ -32,6 +32,11 @@ This project is an automated bot built using Python and Selenium to apply for jo
 3. Download the [Chrome WebDriver](https://chromedriver.chromium.org/downloads) and ensure it matches your Chrome browser version.
 
 4. Place the `chromedriver.exe` in the project directory or add its path to your system's environment variables.
+5. Run the command:
+   ```bash
+   python3 apply.py
+    ```
+**Note**: If you are using older version of python: `python apply.py`
 
 ## Configuration
 
